@@ -1,0 +1,7 @@
+Given a time in 12 hour format(AM/PM), convert it to military(24-hour) time. 12:00:00AM in 24 hour format is 00:00:00.
+
+Sample Input 0:
+07:05:45PM
+
+Sample Output 0:
+19:05:45
